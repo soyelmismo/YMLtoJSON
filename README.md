@@ -1,3 +1,3 @@
 - Needs PyYAML
-  
-<script async id="asciicast-593004" src="https://asciinema.org/a/593004.js"></script>
+- 
+<a href="https://asciinema.org/a/14?autoplay=1"><img src="https://asciinema.org/a/14.png" width="836"/></a>
